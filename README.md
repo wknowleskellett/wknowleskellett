@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William Knowles-Kellett.
 - 👀 I’m interested in open source.
 - 🌱 I’m currently learning Godot, to make a game inspired by [this comic](https://xkcd.com/2061/).
-- 💞️ I’m looking to collaborate on any [ObieSource](https://obiesource.github.io/) project I'm active on. In particular, I'm excited about our new cross-platform pdf editor.
+- 💞️ I’m looking to collaborate on any [ObieSource](https://obiesource.github.io/) project I'm active on. In particular, I'm excited about the game mentioned above.
 - 📫 Reach out to me via the resume on [my website](https://williamknowleskellett.dev/). It's convoluted, but it's semi-botproof.
 
 <!---
