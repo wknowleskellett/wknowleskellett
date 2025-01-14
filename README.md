@@ -2,7 +2,7 @@
 - 🎓 I work for CareFirst BlueCross BlueShield as an Associate Software Engineer.
 - ⛏️ I've made [some minecraft mods](https://modrinth.com/user/LeaveSteve) and I'm working on more.
 - 👀 I’m interested in open source.
-- 🎨 I practice art with digital as well as physical media, usually both.
+- 🎨 I practice art with digital as well as physical media, usually combined.
 - ▶️ I make video content
   - [Personal channel](https://www.youtube.com/@williamknowles-kellett/)
   - [Coding channel](https://www.youtube.com/@LeaveSteve/)
