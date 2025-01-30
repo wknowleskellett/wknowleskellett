@@ -1,3 +1,7 @@
+<a href="https://github-readme-stats.vercel.app/api?username=wknowleskellett&show_icons=true&theme=vue-dark%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wknowleskellett&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+</a>
+
 - 👋 Hi, I’m William Knowles-Kellett.
 - 🎓 I work for CareFirst BlueCross BlueShield as an Associate Software Engineer.
 - ⛏️ I've made [some minecraft mods](https://modrinth.com/user/LeaveSteve) and I'm working on more.
